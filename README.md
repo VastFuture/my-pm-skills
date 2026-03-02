@@ -1,6 +1,8 @@
-# Product Management Marketplace
+# PM Skills Marketplace: 65 Agentic Skills and 36 Commands Across 8 Plugins for Claude Code, Cowork, Gemini, Cursor & More
 
-65 skills and 36 commands across 8 plugins for Product Managers. Built for Claude Code and Claude Cowork, with skills compatible across AI coding assistants.
+> The ultimate collection of 100+ artifacts for PMs working with AI. Built for Claude Code and Cowork, with skills compatible across AI coding assistants.
+
+If this project helps you, simply ⭐ the repo.
 
 ![Plugin overview](plugins-overview.webp)
 
